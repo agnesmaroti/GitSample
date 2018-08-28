@@ -10,6 +10,7 @@ namespace Sample1
     {
         static void Main(string[] args)
         {
+            string asdf;
         }
     }
 }
